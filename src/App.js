@@ -53,7 +53,7 @@ function App() {
           <div> <img className='image' src={require('./img11.png')} alt='img' /></div>
           </li>
           <li className='list youtube'>
-          <iframe width="60%" height="400px" src="https://www.youtube.com/embed/gI7qfHuLQ6Q" frameborder="0" allowfullscreen></iframe>
+          <iframe width="60%" height="400px" title="Video Player" src="https://www.youtube.com/embed/gI7qfHuLQ6Q" frameborder="0" allowfullscreen></iframe>
           </li>
            </ul>
         </div>
